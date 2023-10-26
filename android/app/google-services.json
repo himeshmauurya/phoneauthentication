@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "677060618378",
+    "project_id": "phoneauth-ac2db",
+    "storage_bucket": "phoneauth-ac2db.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677060618378:android:2a932903783aec3708a573",
+        "android_client_info": {
+          "package_name": "com.phoneauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhNmFkbeMV8hRGM6IMQ9xKr9d2KV809zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
